@@ -1,4 +1,4 @@
-# Hi, welcome to my GitHub 👋
+# Hi, welcome to my GitHub 👋 💻 👩
 
 <!--
 **SamBelmor/SamBelmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A little bit about me
+## A little bit about me 💫
 I started working as a Software Engineer on 2019, since then, I've been maintaining
 web apps with various technologies. Software development is one of my passions as
 well as sharing my knowledge, for that reason I have given some talks in different
@@ -38,12 +38,35 @@ tech communities in Mexico, and I am part of the [Women Who Code Colima](https:/
     <img title="Bootstrap" alt="Bootstrap" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
 
-## My posts
+## My work experience
+| Company | Period of work |
+|:---------:|:----------------------------------:|
+| [MagmaLabs](https://www.magmalabs.io/) | January 2019 - Present |
+
+## Talks (Spanish) 🔉
+* [Trucos que probablemente no sabías sobre chrome dev tools](https://www.youtube.com/watch?v=0i1UN0E7ob0&ab_channel=CalzadaCode)
+* [Atomic Habits](https://www.youtube.com/watch?v=FdbgNQuEEx8&ab_channel=MagmaLabs)
+* [QA en un equipo de desarrollo](https://www.facebook.com/watch/live/?ref=watch_permalink&v=708604546704353)
+* [Cómo ser un buen boy scout](https://www.pscp.tv/RevistaSG/1mnxeakaOLvxX)
+* [Manejando carries con EasyPost](https://www.pscp.tv/webdevtalksmx/1yNxaQEmponxj)
+
+## My posts 📘
 1. [Destructuring, the easiest way](http://blog.magmalabs.io/2019/03/04/destructuring-the-easy-way.html)
 2. [CSS Selectors](http://blog.magmalabs.io/2019/06/03/css-selectors.html)
 3. [Currency exchange for UPS carrier](http://blog.magmalabs.io/2020/03/12/currency-exchange-for-ups-carrier.html)
 4. [4 Things You Need To Know Before Starting With Shopify](http://blog.magmalabs.io/2020/07/30/4-things-you-need-to-know-before-starting-with-shopify.html)
 
-## You could find me on
+## TIL
+* [Today I learn](https://til.magmalabs.io/author/samantha-bello)
+
+## Hobbies 📚 🚴 🎻 🍒 💆
+When I'm not developing awesome things, I usually do:
+1. Working out in the gym
+2. Practicing Muay Thai
+3. Traveling
+4. Reading books
+5. Learning things about nutrition
+
+## You could find me on 🌀
 [![Linkedin Badge](https://img.shields.io/badge/-Sam%20Belmor-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sambelmor/)
 [![Twitter Badge](https://img.shields.io/badge/-@Sam_Belmor_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sambelmor)  
