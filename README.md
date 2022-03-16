@@ -1,19 +1,8 @@
-# Hi, welcome to my GitHub 👋 💻 👩
+# 👋 Hi, welcome to my GitHub
 
-<!--
-**SamBelmor/SamBelmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
+</p>
 
 ## A little bit about me 💫
 I started working as a Software Engineer on 2019, since then, I've been maintaining
@@ -21,7 +10,7 @@ web apps with various technologies. Software development is one of my passions a
 well as sharing my knowledge, for that reason I have given some talks in different
 tech communities in Mexico, and I am part of the [Women Who Code Colima](https://www.womenwhocode.com/colima) staff.
 
-## Technology skills
+<h2>Technology skills</h2>
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
@@ -37,11 +26,24 @@ tech communities in Mexico, and I am part of the [Women Who Code Colima](https:/
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
+  </span>
+</p>
 
-## My work experience
-| Company | Period of work |
-|:---------:|:----------------------------------:|
-| [MagmaLabs](https://www.magmalabs.io/) | January 2019 - Present |
+<h2>My work experience</h2>
+<table>
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>Period of work</th>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/KcbibGt6xGs04KNZ1O/giphy.gif" alt="magma-flow" width="40"></td>
+    <td>
+      <a href="https://www.magmalabs.io/">MagmaLabs</a>
+    </td>
+    <td>January 2019 - Present</td>
+  </tr>
+</table>
 
 ## Talks (Spanish) 🔉
 * [Trucos que probablemente no sabías sobre chrome dev tools](https://www.youtube.com/watch?v=0i1UN0E7ob0&ab_channel=CalzadaCode)
@@ -49,6 +51,7 @@ tech communities in Mexico, and I am part of the [Women Who Code Colima](https:/
 * [QA en un equipo de desarrollo](https://www.facebook.com/watch/live/?ref=watch_permalink&v=708604546704353)
 * [Cómo ser un buen boy scout](https://www.pscp.tv/RevistaSG/1mnxeakaOLvxX)
 * [Manejando carries con EasyPost](https://www.pscp.tv/webdevtalksmx/1yNxaQEmponxj)
+* [La importancia de hacer un buen code review](https://www.youtube.com/watch?v=siHrwvvxdds)
 
 ## My posts 📘
 1. [Destructuring, the easiest way](http://blog.magmalabs.io/2019/03/04/destructuring-the-easy-way.html)
@@ -67,6 +70,20 @@ When I'm not developing awesome things, I usually do:
 4. Reading books
 5. Learning things about nutrition
 
+<div align="center">
+  <img src="https://github.com/SamBelmor/SamBelmor/blob/main/img/octocat-dancing.gif?raw=true" height="200" width="200" alt="dancing"/>
+  <img src="https://github.com/SamBelmor/SamBelmor/blob/main/img/octocat-meditating.gif?raw=true" height="250" width="250" alt="yoga" />
+  <img src="https://github.com/SamBelmor/SamBelmor/blob/main/img/octocat-searching.gif?raw=true" height="250" width="250" alt="discovering"/>
+</div>
+
 ## You could find me on 🌀
-[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Belmor-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sambelmor/)
-[![Twitter Badge](https://img.shields.io/badge/-@Sam_Belmor_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sambelmor)  
+<p align='center'>
+  <a href="https://twitter.com/sambelmor"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sam_belmor/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sambelmor/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+<div align="center">
+<h3>Thanks for visiting</h3>
+  <img src="https://github.com/SamBelmor/SamBelmor/blob/main/img/octocat-walking.gif?raw=true" width="150" alt="walking" />
+</div>
