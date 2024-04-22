@@ -41,7 +41,14 @@ tech communities in Mexico, and I am part of the [Women Who Code Colima](https:/
     <td>
       <a href="https://www.magmalabs.io/">MagmaLabs</a>
     </td>
-    <td>January 2019 - Present</td>
+    <td>January 2019 - July 2022</td>
+  </tr>
+    <tr>
+    <td><img src="https://yt3.googleusercontent.com/E1Seq5g8pnCxi8WRFEiAcOfjztEtat2wT3IqSDhuBQiDXDK0SdOgRPgT9lx0017FPzPPlppdEQ=s900-c-k-c0x00ffffff-no-rj" alt="salesloft-logo" width="40"></td>
+    <td>
+      <a href="https://www.salesloft.com/">Salesloft</a>
+    </td>
+    <td>July 2022 - Present</td>
   </tr>
 </table>
 
